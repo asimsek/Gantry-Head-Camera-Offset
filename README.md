@@ -13,6 +13,8 @@ The GHCO calibration process is necessary for several reasons:
 
 ## How to Perform GHCO Calibration
 
+> **Important Note:** Before performing GHCO, make sure that the z-axis offset is correct. If you're not sure, please set all x-y-z axis as 0.0!! The configuration can be found in your flex config file as geometry.tool_holder_offset and you can set it as:
+
 1. Position the Glass Heater onto its designated spot, as shown in Picture #1.
 2. Launch the GScript application.
 3. Load and execute the "Calibrate_GHCO_CUA.gscript" script.
