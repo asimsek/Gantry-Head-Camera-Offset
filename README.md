@@ -13,3 +13,9 @@ The GHCO calibration process is necessary for several reasons:
 
 ## How to Perform GHCO Calibration
 
+1. Position the Glass Heater onto its designated spot, as shown in Picture #1.
+2. Launch the GScript application.
+3. Load and execute the "Calibrate_GHCO_CUA.gscript" script.
+4. Activate the crosshairs in the lower-left corner of the window once the camera feed appears.
+5. Locate the cross mark within the circle on the glass heater by clicking on the screen and center the enabled red crosshairs.
+6. Follow the prompts, and for each angle, manually relocate the glass heater to its initial location.
