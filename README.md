@@ -12,7 +12,7 @@ The GHCO calibration process is necessary for several reasons:
 **3. Minimized Material Waste:** Precise GHCO calibration helps to minimize the amount of material waste during the assembly process, reducing costs and increasing efficiency.
 
 ## How to Perform GHCO Calibration
-> **Important Note:** Before performing GHCO, make sure that the z-axis offset is correct. If you're not sure, please set all x-y-z axis as 0.0!! The configuration can be found in your flex config file as geometry.tool_holder_offset and you can set it as: `geometry.tool_holder_offset: {0.0,0.0,0.0}  ## If you are not sure!`
+> **Important Note:** Before performing GHCO, make sure that the z-axis offset is correct. If you're not sure, please set all x-y-z axis as 0.0!! The configuration can be found in your flex config file as `geometry.tool_holder_offset` and you can set it as: `geometry.tool_holder_offset: {0.0,0.0,0.0}  ## If you are not sure!`
 
 1. Position the Glass Heater onto its designated spot, as shown in Picture #1.
 2. Launch the GScript application.
