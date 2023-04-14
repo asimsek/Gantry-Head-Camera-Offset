@@ -24,7 +24,7 @@ PRINT "targetPos: %v" $targetPos
 
 FLEXREAD $dim geometry.TFPX_GHCOPIECE.fid_br
 
-COPY $angle 90
+COPY $angle 0
 
 @STEP_ZERO PASS
 MOVENAME stagingArea 50
