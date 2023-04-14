@@ -2,7 +2,7 @@
 
 The Gantry Head Camera Offset (GHCO) Calibration is a process that is used to align the camera mounted on the gantry head with the TFPX module placement tool head. This calibration process is essential for ensuring that the placement tool head can accurately pick up and place the components.
 
-##Why is GHCO Calibration Necessary?
+## Why is GHCO Calibration Necessary?
 The GHCO calibration process is necessary for several reasons:
 
 **1. Component Placement Accuracy:** The GHCO calibration process ensures that the placement tool head can accurately pick up and place components, resulting in precise component placement and improved overall assembly quality.
