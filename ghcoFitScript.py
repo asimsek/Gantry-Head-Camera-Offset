@@ -5,7 +5,7 @@
 
 import re, os, sys
 
-refPos = [-0.3079674542,-102.2929647457,-16.72]
+refPos = [0.3764803487,-102.1936917221,-16.72]
 filePath = "/uploads/LOG_Calibrate_GHCO.txt"
 
 
